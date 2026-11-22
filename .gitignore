@@ -1,0 +1,16 @@
+# المشتقات الثقيلة والوسيطة — لا ترفع
+*.npy
+*.pkl
+sents.json
+sample_meta.json
+work2/
+out/
+__pycache__/
+
+# ⚠️ محتوى الكتب مشتق من نصوص محمية بحقوق النشر (Orthobullets 2026 + الترجمة العربية 2021).
+# ملفات CSV ونتائج الفحص أدناه تعمل محليًا فقط ولا ترفع إلى مستودع عام:
+labse_retrieval.csv
+aligned_pairs.csv
+qc_retrieval.txt
+spotcheck50.txt
+books/
